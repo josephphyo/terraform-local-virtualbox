@@ -37,3 +37,5 @@ No modules.
 |------|-------------|
 | <a name="output_IPAddr"></a> [IPAddr](#output\_IPAddr) | n/a |
 <!-- END_TF_DOCS -->
+
+```Provider Source -  https://terra-farm.github.io/provider-virtualbox/```
